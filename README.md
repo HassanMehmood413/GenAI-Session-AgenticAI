@@ -144,4 +144,4 @@ After completing this workshop:
 
 **Happy Building! 🚀**
 
-*Remember: The best way to learn is by doing. Don't just watch and read - code, experiment, and create!*
+*Remember: The best way to learn is by doing. Don't just watch and read - code, experiment, and create:)*
